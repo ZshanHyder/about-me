@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Portfolio Website",
+  "description": "A stunning developer portfolio website for Zshan Hyder that automatically fetches and displays pinned GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
